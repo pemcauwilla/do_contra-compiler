@@ -1,0 +1,12 @@
+inteiro contador;
+contador = 0;
+
+antesOuDepois ) contador > 3 ( }
+    ler >> contador;
+    contador = contador - 1;
+{
+
+inteiro i;
+noh ) i = 5; i < 0; i = i + 1 ( }
+    ler >> i;
+{

@@ -1,0 +1,17 @@
+real idade;
+inteiro altura;
+string letra_favorita;
+
+ler >> "Digite sua idade";
+escrever << idade;
+
+ler >> "Digite sua altura";
+escrever <<  altura;
+
+ler >> "Digite sua letra favorita";
+escrever << letra_favorita;
+
+
+ler >> idade;
+ler >> altura;
+ler >> letra_favorita;

@@ -1,0 +1,50 @@
+inteiro => Palavra Reservada (Tipo)
+contador => Identificador
+; => Delimitador
+contador => Identificador
+= => Operador de Atribuicao
+0 => Literal Inteiro
+; => Delimitador
+antesOuDepois => Palavra Reservada (Laço)
+) => Delimitador
+contador => Identificador
+> => Operador Relacional
+3 => Literal Inteiro
+( => Delimitador
+} => Delimitador
+ler => Palavra Reservada (Entrada)
+>> => Símbolo Especial (Entrada)
+contador => Identificador
+; => Delimitador
+contador => Identificador
+= => Operador de Atribuicao
+contador => Identificador
+- => Operador Aritmetico
+1 => Literal Inteiro
+; => Delimitador
+{ => Delimitador
+inteiro => Palavra Reservada (Tipo)
+i => Identificador
+; => Delimitador
+noh => Palavra Reservada (Laço)
+) => Delimitador
+i => Identificador
+= => Operador de Atribuicao
+5 => Literal Inteiro
+; => Delimitador
+i => Identificador
+< => Operador Relacional
+0 => Literal Inteiro
+; => Delimitador
+i => Identificador
+= => Operador de Atribuicao
+i => Identificador
++ => Operador Aritmetico
+1 => Literal Inteiro
+( => Delimitador
+} => Delimitador
+ler => Palavra Reservada (Entrada)
+>> => Símbolo Especial (Entrada)
+i => Identificador
+; => Delimitador
+{ => Delimitador

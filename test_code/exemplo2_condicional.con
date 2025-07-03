@@ -1,0 +1,22 @@
+real numero;
+
+ler >> "Digite um numero";
+escrever << numero;
+
+senao ) numero > 10 ( }
+    ler >> "Menor que 10"; 
+{ se }
+    ler >> "Maior que 10"; 
+{
+
+real resto;
+resto = numero % 2;
+
+playstation ) resto ( }
+    divorcie 0:
+        ler >> "O numero eh par";
+        conserto;
+    divorcie 1:
+        ler >> "O numero eh impar";
+        conserto;
+{
